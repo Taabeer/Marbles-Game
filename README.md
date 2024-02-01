@@ -8,7 +8,7 @@ Marble Game is a Java program that simulates a game where players take turns rem
 
 - **Description**: Represents the computer player in the Marble Game.
 - **Fields**:
-  - `mode`: Indicates the difficulty mode (1 for stupid, 2 for smart).
+  - `mode`: Indicates the difficulty mode (1 for easy, 2 for hard).
   - `choice`: Stores the computer's chosen number of marbles to remove.
 - **Methods**:
   - `move`: Determines the computer's move based on the current number of marbles left.
